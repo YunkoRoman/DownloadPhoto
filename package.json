@@ -5,9 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
-    "gm": "^1.23.1",
     "request": "^2.88.0",
-    "request-promise": "^4.2.4"
   },
   "devDependencies": {},
   "scripts": {
