@@ -1,0 +1,1 @@
+To run this file, you must go to URL "localhost:3000/facebook_image"
